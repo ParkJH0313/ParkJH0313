@@ -25,10 +25,7 @@
 ### ⭐ Featured Project
 
 #### [🏭 스마트 팩토리 전력 소비 최적화 및 운영 전략 개선](여기에_레포지토리_링크_넣기)
-- [cite_start]**Problem:** 에너지 비효율의 원인을 '운전 방식'과 '전류 품질 관리 부재'로 진단[cite: 153].
-- [cite_start]**Method:** - 설비별 개별 모델링 후 합산하는 **Bottom-up 구조**로 예측 안정성 확보[cite: 108].
-  - [cite_start]**MoE(Mixture of Experts)** 아키텍처를 통한 평균 및 분산 예측 최적화[cite: 37, 39].
-- [cite_start]**Impact:** 한전 개정 규정(역률 92%) 대응 및 APFC 설치를 통한 전기료 절감 솔루션 제시[cite: 160, 173].
+
 
 ---
 
@@ -39,6 +36,6 @@
 ---
 
 ### 📫 Contact & Channels
-- 📧 Email: [이메일 주소]
+- 📧 Email: [tpark99832481@gmail.com]
 - 📝 Portfolio: [노션 링크]
 - 🔗 LinkedIn: [링크드인 주소]
