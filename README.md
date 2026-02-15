@@ -24,7 +24,7 @@
 
 <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
-<img src="https://img.shields.io/badge/FIREBASE (Auth, Firestore, FCM)-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 ---
 
 ### ⭐ Featured Project
